@@ -1,0 +1,178 @@
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+Created by SciTEConfig
+# 11/26/2010
+font.base=font:Verdana,size:11,$(font.override)
+font.monospace=font:Andale Mono,size:11
+font.small=font:Andale Mono,size:9
+
+strip.trailing.spaces=1
+ensure.final.line.end=1
+ensure.consistent.line.ends=1
+find.replace.advanced=1
+find.close.on.find=0
+two.phase.draw=1
+proper.case=1
+check.updates.scite4autoit3=1
+use.tabs=1
+tabsize=4
+toolbar.visible=0
+save.on.deactivate=1
+save.all.for.build=1
+save.session=1
+reload.preserves.undo=1
+full.screen.hides.menu=1
+tabbar.hide.one=1
+indent.size.au3=4
+view.indentation.guides=0
+view.indentation.whitespace=0
+are.you.sure=0
+edge.mode=0
+title.full.path=2
+
+# Editor ======================================================
+# Background
+style.au3.32=back:#293134
+
+# Brace
+style.au3.34=fore:#F3DB2E,bold # Matching
+style.au3.35=fore:#FB0000,bold # Non-Matching
+
+# Caret
+caret.width=3
+caret.period=300
+caret.fore=#C1CBD2
+caret.line.back=#2F393C
+caret.line.back.alpha=50
+
+# Selection
+selection.fore=#C00000
+selection.back=#404E51
+selection.alpha=25
+
+# White space
+style.au3.0=fore:#E0E2E4
+# Comment line
+style.au3.1=fore:#66747B
+# Comment block
+style.au3.2=fore:#66747B
+# Number
+style.au3.3=fore:#FFCD22
+# Function
+style.au3.4=fore:#E0E2E4,italics
+# Keyword
+style.au3.5=fore:#93C763
+# Macro
+style.au3.6=fore:#D39745,italics
+# String
+style.au3.7=fore:#EC7600
+# Operator
+style.au3.8=fore:#E8E2B7
+# Variable
+style.au3.9=fore:#678CB1
+# Sent keys
+style.au3.10=fore:#E0E2E4
+# Pre-Processor
+style.au3.11=fore:#A082BD
+# Special
+style.au3.12=fore:#E0E2E4,italics,bold
+# Abbrev-Expand
+style.au3.13=fore:#E0E2E4,bold
+# Com Objects
+style.au3.14=fore:#E0E2E4,bold
+# Standard UDFs
+style.au3.15=fore:#0080FF,bold
+# =============================================================
+
+# Margins =====================================================
+# Fold Margin
+fold.symbols=2
+fold.margin.colour=#6A8088
+fold.margin.highlight.colour=#2F383C
+fold.compact=0
+fold.margin.width=12
+
+# Line Number Margin
+style.au3.33=$(font.monospaced),fore:#81969A,back:#3F4B4E
+line.margin.visible=1
+line.margin.width=1+
+
+# Selection Margin
+margin.width=18
+# =============================================================
+
+# Console =====================================================
+output.initial.hide=1
+
+error.marker.fore=#DADADA
+error.marker.back=#2E3436
+
+# Console Background
+style.errorlist.32=$(font.monospace),back:#293134
+
+# Error Output
+style.errorlist.0=fore:#E0E2E4
+
+# Program Output
+style.errorlist.1=fore:#E0E2E4
+
+# Error Line
+style.errorlist.3=fore:#E0E2E4
+
+# command or return status
+style.errorlist.4=fore:#93C763
+
+# Diff changed !
+style.errorlist.10=fore:#FF3A83
+
+# Diff addition +
+style.errorlist.11=fore:#678CB1
+
+# Diff deletion -
+style.errorlist.12=fore:#FF00FF
+
+# unused?
+# gcc Error
+style.errorlist.2=fore:#0000FF
+# Borland error and warning messages
+style.errorlist.5=fore:#0000FF
+# perl error and warning messages
+style.errorlist.6=fore:#0000FF
+# .NET tracebacks
+style.errorlist.7=fore:#0000FF
+# Lua error and warning messages
+style.errorlist.8=fore:#0000FF
+# ctags
+style.errorlist.9=fore:#0000FF
+# diff message ---
+style.errorlist.13=fore:#DADADA
+# PHP error
+style.errorlist.14=fore:#0000FF
+# Essential Lahey Fortran 90 error
+style.errorlist.15=fore:#0000FF
+# Intel Fortran Compiler error
+style.errorlist.16=fore:#0000FF
+# Intel Fortran Compiler v8.0 error/warning
+style.errorlist.17=fore:#0000FF
+# Absoft Pro Fortran 90/95 v8.2 error or warning
+style.errorlist.18=fore:#0000FF
+# HTML Tidy
+style.errorlist.19=fore:#0000FF
+# Java runtime stack trace
+style.errorlist.20=fore:#0000FF
+# Text matched with find in files and message part of GCC errors
+style.errorlist.21=fore:#0000FF
+
+# The following are unknown to me.  If you have any information please let me know.
+style.errorlist.22=fore:#0000FF # ???
+style.errorlist.23=fore:#0000FF # ???
+style.errorlist.24=fore:#0000FF # ???
+style.errorlist.25=fore:#0000FF # ???
+style.errorlist.26=fore:#0000FF # ???
+style.errorlist.27=fore:#0000FF # ???
+style.errorlist.28=fore:#0000FF # ???
+style.errorlist.29=fore:#0000FF # ???
+style.errorlist.30=fore:#0000FF # ???
+style.errorlist.31=fore:#0000FF # ???
+# =============================================================
+
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#

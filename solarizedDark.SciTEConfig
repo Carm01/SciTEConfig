@@ -1,0 +1,59 @@
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+# http://ethanschoonover.com/solarized
+# Solarized Dark
+#------------------------------------------------------------
+#Background
+style.au3.32=style.*.32=$(font.base),back:#002B36
+#CaretLineBackground
+caret.line.back=#073642
+#Selection Foreground/background and Alpha
+selection.fore=#268BD2
+selection.alpha=75
+selection.back=#93A1A1
+# Brace highlight
+style.au3.34=fore:#859900,back:#002B36
+# Brace incomplete highlight
+style.au3.35=fore:#586E75,italics,back:#002B36
+#White space
+style.au3.0=fore:#839496,back:#002B36
+#Comment line
+style.au3.1=fore:#586E75,italics,back:#002B36
+#Comment block
+style.au3.2=fore:#586E75,italics,back:#002B36
+#Number
+style.au3.3=fore:#2AA198,back:#002B36
+#Function
+style.au3.4=fore:#268BD2,back:#002B36
+#Keyword
+style.au3.5=fore:#859900,back:#002B36
+#Macro
+style.au3.6=fore:#93A1A1,bold,back:#002B36
+#String
+style.au3.7=fore:#DC322F,back:#002B36
+#Operator
+style.au3.8=fore:#839496,back:#002B36
+#Variable
+style.au3.9=fore:#839496,back:#002B36
+#Sent keys
+style.au3.10=fore:#D33682,back:#002B36
+#Pre-Processor
+style.au3.11=fore:#B58900,back:#002B36
+#Special
+style.au3.12=fore:#6C71C4,italics,back:#002B36
+#Abbrev-Expand
+style.au3.13=fore:#DC322F,back:#002B36
+#Com Objects
+style.au3.14=fore:#CB4B16,italics,back:#002B36
+#Standard UDF's
+style.au3.15=fore:#0080FF,back:#002B36
+
+# Margins
+# Fold Margin
+fold.margin.colour=#073642
+fold.margin.highlight.colour=#073642
+# Fold Line
+fold.highlight.colour=#DC322F
+
+# Line Number Margin
+style.au3.33=$(font.monospaced),fore:#586E75,back:#073642
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
